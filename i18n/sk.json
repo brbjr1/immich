@@ -814,7 +814,6 @@
   "custom_date": "Vlastný dátum",
   "custom_locale": "Vlastné nastavenie jazyka",
   "custom_locale_description": "Formátovať dátumy, časy a čísla podľa vybraného jazyka a regiónu",
-  "custom_url": "Vlastná URL adresa",
   "cutoff_date_description": "Ponechať fotografie z posledného obdobia…",
   "cutoff_day": "{count, plural, one {deň} few {dni} other {dní}}",
   "cutoff_year": "{count, plural, one {rok} few {roky} other {rokov}}",

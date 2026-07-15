@@ -814,7 +814,6 @@
   "custom_date": "Datë e personalizuar",
   "custom_locale": "Lokale e personalizuar",
   "custom_locale_description": "Formato datat, orët dhe numrat bazuar në gjuhën dhe rajonin e përzgjedhur",
-  "custom_url": "URL e personalizuar",
   "cutoff_date_description": "Mbaj fotot nga…",
   "cutoff_day": "{count, plural, one {ditë} other {ditë}}",
   "cutoff_year": "{count, plural, one {vit} other {vjet}}",

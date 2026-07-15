@@ -759,7 +759,6 @@
   "custom_date": "Προσαρμοσμένη ημερομηνία",
   "custom_locale": "Προσαρμοσμένη τοπική ρύθμιση",
   "custom_locale_description": "Μορφοποιήστε τις ημερομηνίες, τους χρόνους και τους αριθμούς, σύμφωνα με την επιλεγμένη γλώσσα και περιοχή",
-  "custom_url": "Προσαρμοσμένη διεύθυνση URL",
   "cutoff_date_description": "Διατήρηση φωτογραφιών από τις τελευταίες…",
   "cutoff_day": "{count, plural, one {ημέρα} other {ημέρες}}",
   "cutoff_year": "{count, plural, one {έτος} other {έτη}}",
